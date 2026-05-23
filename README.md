@@ -5,3 +5,7 @@
 `pytohn AIBSD_teacher.py --config ./configs/isic/100/isic_AIBSD_teacher.yml`
 ### second stage：train full-task student model
 `pytohn AIBSD.py --config ./configs/isic/100/isic_AIBSD.yml`
+
+## Result
+<img width="1599" height="660" alt="image" src="https://github.com/user-attachments/assets/4b45cff1-22ac-48f4-8bcc-5d7dbf236d28" />
+
